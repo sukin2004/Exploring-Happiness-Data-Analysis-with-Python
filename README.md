@@ -19,6 +19,13 @@ This project analyzes the **World Happiness Report dataset** using **Python, Pan
 - Python  
 - Pandas  
 - Matplotlib
+- Seaborn
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6f3b7036-024c-4f6b-922c-317b3c8b0f8e" />
+
+<img width="873" height="733" alt="image" src="https://github.com/user-attachments/assets/4d5c67f5-f2a2-4453-abfb-9beba8829b14" />
+
 
 
 
